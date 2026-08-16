@@ -49,7 +49,7 @@ The dashboard helps identify:
 * Job satisfaction levels across different job roles.
 * Workforce characteristics based on salary and demographics.
 ## Dashboard Preview
-![HR Analytics Dashboard](HR_Analytics_Dashboard.png)
+![HR ANALYTICS OVERVIEW](HR_ANALYTICS_OVERVIEW.png)
 ## Project Files
 * `Dashboard/` – Power BI dashboard file.
 * `Dataset/` – Source HR dataset, if permitted to share.
